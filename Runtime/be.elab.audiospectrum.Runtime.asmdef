@@ -1,0 +1,14 @@
+
+{                                                                   
+            "name": "be.elab.audiospectrum",          
+    "references": [
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [],                                                  
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
